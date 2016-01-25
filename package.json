@@ -27,7 +27,7 @@
     }
   ],
   "peerDependencies": {
-    "react": "^0.14.1"
+    "react-native": "^0.15.0"
   },
   "dependencies": {
     "babel-plugin-react-transform": "^2.0.0",
@@ -36,6 +36,6 @@
   "devDependencies": {
     "babel-cli": "^6.3.17",
     "babel-preset-react": "^6.3.13",
-    "react": "^0.14.3"
+    "react-native": "^0.18.1"
   }
 }
