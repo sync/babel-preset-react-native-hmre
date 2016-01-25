@@ -1,0 +1,41 @@
+{
+  "name": "babel-preset-react-native-hmre",
+  "description": "Babel preset for React Native HMR",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:yadi-social/babel-preset-react-native-hmre.git"
+  },
+  "keywords": [
+    "babel",
+    "react",
+    "react-native",
+    "react-transform-hmr"
+  ],
+  "author": "Dzmitry Khadorkin <dzmitry@khadorkin.by>",
+  "license": "MIT",
+  "bugs": "https://github.com/yadi-social/babel-preset-react-native-hmre/issues",
+  "homepage": "https://github.com/yadi-social/babel-preset-react-native-hmre",
+  "contributors": [
+    {
+      "name": "Dzmitry Khadorkin",
+      "email": "dzmitry@khadorkin.by"
+    }
+  ],
+  "peerDependencies": {
+    "react": "^0.14.1"
+  },
+  "dependencies": {
+    "babel-plugin-react-transform": "^2.0.0",
+    "react-transform-hmr": "^1.0.1"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.3.17",
+    "babel-preset-react": "^6.3.13",
+    "react": "^0.14.3"
+  }
+}
